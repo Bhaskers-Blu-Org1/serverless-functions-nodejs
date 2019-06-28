@@ -1,7 +1,7 @@
 # wskdeploy manifest file
 
 packages:
-  ServerlessAppNodejs:
+  ServerlessFunctionsNodejs:
     version: 1.0
     license: Apache-2.0
     inputs: 
@@ -39,8 +39,8 @@ packages:
         runtime: nodejs:8
         web-export: true
     apis:
-      ServerlessAppNodejs:
-        ServerlessAppNodejs:
+      ServerlessFunctionsNodejs:
+        ServerlessFunctionsNodejs:
           api/create:
             create:
               method: "POST"
