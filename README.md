@@ -16,7 +16,7 @@
 
 # Create a serverless Node.js application
 
-> We have similar applications available for [Swift](https://github.com/IBM/serverless-app-swift) and [Python](https://github.com/IBM/serverless-app-python).
+> We have similar applications available for [Swift](https://github.com/IBM/serverless-functions-swift) and [Python](https://github.com/IBM/serverless-functions-python).
 
 This repository has code to create a serverless Backend for Frontend (BFF) using Node.js and IBM Cloud Functions to communicate with a NoSQL database. No full stack application management required. Cloud Functions supplies basic Create, Read, Update, and Delete operations in a serverless environment. These functions are mapped to an API gateway, which can be integrated into an iOS app, for example, to enable persistence of data into a Cloudant NoSQL Database.
 
