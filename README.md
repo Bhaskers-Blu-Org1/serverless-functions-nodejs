@@ -35,7 +35,7 @@ Cloudant NoSQL DB provides access to a fully managed NoSQL JSON data layer that'
 
 ## Steps
 
-While you can use the individual actions locally, this collection of endpoints is meant to be deployed to IBM Cloud Functions. You can [deploy this application to IBM Cloud](https://cloud.ibm.com/developer/appservice/starter-kits/2be7f93b-ae80-3f24-8351-c8c73ad7e2a6/node-example-serverless-app) or [deploy it manually](#deploying-manually) by cloning this repo first.  
+While you can use the individual actions locally, this collection of endpoints is meant to be deployed to IBM Cloud Functions. You can [deploy this application to IBM Cloud](https://cloud.ibm.com/developer/appservice/create-app?starterKit=6b42c419-1d3c-38a5-ba38-14c0ed097a16) or [deploy it manually](#deploying-manually) by cloning this repo first.  
 
 You can then review the [Actions](https://cloud.ibm.com/openwhisk/actions) in the IBM Cloud Console interface, along with your [Cloud Functions APIs](https://cloud.ibm.com/openwhisk/apimanagement).
 <table>
@@ -83,7 +83,7 @@ You can then review the [Actions](https://cloud.ibm.com/openwhisk/actions) in th
 ### Deploying to IBM Cloud
 
 <p align="center">
-    <a href="https://cloud.ibm.com/developer/appservice/starter-kits/2be7f93b-ae80-3f24-8351-c8c73ad7e2a6/node-example-serverless-app">
+    <a href="https://cloud.ibm.com/developer/appservice/create-app?starterKit=6b42c419-1d3c-38a5-ba38-14c0ed097a16">
     <img src="https://cloud.ibm.com/devops/setup/deploy/button_x2.png" alt="Deploy to IBM Cloud">
     </a>
 </p>
